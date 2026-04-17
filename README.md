@@ -1,4 +1,4 @@
-# 🔐 AI Intrusion Detection System
+#  AI Intrusion Detection System
 
 This project is a simple machine learning-based web app that detects whether network activity is normal or an attack.
 
@@ -6,7 +6,7 @@ We built this to understand how intrusion detection systems work and how machine
 
 ---
 
-## 🚀 What this project does
+## What this project does
 
 * Takes network input (like duration, bytes, etc.)
 * Uses a trained ML model to classify it
@@ -15,7 +15,7 @@ We built this to understand how intrusion detection systems work and how machine
 
 ---
 
-## 🧠 Tech used
+## Tech used
 
 * Python
 * Pandas
@@ -25,7 +25,7 @@ We built this to understand how intrusion detection systems work and how machine
 
 ---
 
-## 📁 Project structure
+## Project structure
 
 ```
 app.py → Streamlit UI  
@@ -37,7 +37,7 @@ src/ → all core logic
 
 ---
 
-## ⚙️ How to run
+## How to run
 
 1. Install dependencies:
 
@@ -53,7 +53,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Model
+## Model
 
 We used:
 
@@ -64,7 +64,7 @@ Random Forest performed better overall, so it is used in the app.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 We used the KDD Cup dataset.
 
@@ -81,7 +81,7 @@ data/KDDTrain+.txt
 
 ---
 
-## 📌 What we learned
+## What we learned
 
 * How to structure an ML project properly
 * Data preprocessing and feature handling
@@ -90,7 +90,7 @@ data/KDDTrain+.txt
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 
 Vimla Pandey
 🔗 https://www.linkedin.com/in/vimlapandey/
